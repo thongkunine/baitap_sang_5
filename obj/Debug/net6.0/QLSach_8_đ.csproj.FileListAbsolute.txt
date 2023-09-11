@@ -1,0 +1,14 @@
+D:\c#\QLSach_8_đ\bin\Debug\net6.0\QLSach_8_đ.exe
+D:\c#\QLSach_8_đ\bin\Debug\net6.0\QLSach_8_đ.deps.json
+D:\c#\QLSach_8_đ\bin\Debug\net6.0\QLSach_8_đ.runtimeconfig.json
+D:\c#\QLSach_8_đ\bin\Debug\net6.0\QLSach_8_đ.dll
+D:\c#\QLSach_8_đ\bin\Debug\net6.0\QLSach_8_đ.pdb
+D:\c#\QLSach_8_đ\obj\Debug\net6.0\QLSach_8_đ.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\QLSach_8_đ\obj\Debug\net6.0\QLSach_8_đ.AssemblyInfoInputs.cache
+D:\c#\QLSach_8_đ\obj\Debug\net6.0\QLSach_8_đ.AssemblyInfo.cs
+D:\c#\QLSach_8_đ\obj\Debug\net6.0\QLSach_8_đ.csproj.CoreCompileInputs.cache
+D:\c#\QLSach_8_đ\obj\Debug\net6.0\QLSach_8_đ.dll
+D:\c#\QLSach_8_đ\obj\Debug\net6.0\refint\QLSach_8_đ.dll
+D:\c#\QLSach_8_đ\obj\Debug\net6.0\QLSach_8_đ.pdb
+D:\c#\QLSach_8_đ\obj\Debug\net6.0\QLSach_8_đ.genruntimeconfig.cache
+D:\c#\QLSach_8_đ\obj\Debug\net6.0\ref\QLSach_8_đ.dll
